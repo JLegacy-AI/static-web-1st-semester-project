@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px; 
+}
+
+.on_top_head{
+	background-attachment: scroll;
+}
+
+body{
+	background-size: url(../pics/Huge-Backgrounds-63.jpg);
+}
+
+marquee{
+	color: white;
+	font-size: 20px;
+	width: 70%;
+	height:500px;
+	background-color: rgba(0,0,255,0.5);
+}
